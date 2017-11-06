@@ -1,0 +1,11 @@
+OpenXC Park Buddy Project
+==============
+
+It is a Indoor Route Assistant.
+
+Creates an indoor route to parking slot without GPS.
+
+
+==============
+
+Project for Ford OTOSAN OpenXC Hackathon
