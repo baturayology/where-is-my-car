@@ -1,4 +1,4 @@
-OpenXC Park Buddy Project
+OpenXC - Where is My Car?
 ==============
 
 It is a Indoor Route Assistant.
